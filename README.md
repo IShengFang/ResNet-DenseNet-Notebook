@@ -7,7 +7,14 @@
 
 All model was trained with 100 epochs and Adam(learning rate:$10^{-5}$)
 ## TL;DR
+### Residual Block Plot
+![](./resnres_block.png)
 ### Loss
 ![Loss](./Loss.png )
 ### Accuracy
 ![Accuracy](./Acc.png)
+### Whole Model plot
+#### Residual Network with ReLU and batch normalization 
+![](./resnet_ReLUBN.png)
+#### Residual Network with SELU
+![](./resnet.png)
