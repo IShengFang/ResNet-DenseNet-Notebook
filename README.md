@@ -5,7 +5,7 @@
 - 18 layers **residual** network with *SELU*
 - 18 layers **plain** network with *SELU*
 
-All model was trained with 100 epochs and Adam(learning rate:$10^-5$)
+All model was trained with 100 epochs and Adam(learning rate:$10^{-5}$)
 ## TL;DR
 ### Loss
 ![Loss](./Loss.png )
